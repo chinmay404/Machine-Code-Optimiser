@@ -1,7 +1,5 @@
 # Machine Code Optimizer
-![image](https://github.com/chinmay404/Machine-Code-Optimiser/assets/92822013/afe67e8f-d1dc-403e-a235-3a99961f2260)
-![image](https://github.com/chinmay404/Machine-Code-Optimiser/assets/92822013/ec95ec44-e29a-4399-a2bb-41e57007cf97)
-![image](https://github.com/chinmay404/Machine-Code-Optimiser/assets/92822013/be4df808-d443-449f-a3bf-3f3a77cb7b10)
+
 
 
 ## Overview
@@ -12,7 +10,10 @@ Machine Code Optimizer is a Streamlit web application that utilizes language mod
 - Specify the machine name for optimization.
 - View optimized code and cycle time analysis results.
 - Download the optimized code report.
+![image](https://github.com/chinmay404/Machine-Code-Optimiser/assets/92822013/b8623e8c-9b81-4c22-a1ca-817651a5b3c1)
 
+![image](https://github.com/chinmay404/Machine-Code-Optimiser/assets/92822013/ec95ec44-e29a-4399-a2bb-41e57007cf97)
+![image](https://github.com/chinmay404/Machine-Code-Optimiser/assets/92822013/be4df808-d443-449f-a3bf-3f3a77cb7b10)
 ## Getting Started
 To run the Machine Code Optimizer locally, follow these steps:
 
