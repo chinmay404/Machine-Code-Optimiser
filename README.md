@@ -20,7 +20,7 @@ To run the Machine Code Optimizer locally, follow these steps:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your_username/machine-code-optimizer.git
+   https://github.com/chinmay404/Machine-Code-Optimiser.git
 
 2. Install requirement:
 
