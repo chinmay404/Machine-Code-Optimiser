@@ -27,7 +27,11 @@ To run the Machine Code Optimizer locally, follow these steps:
    ```Terminal
    pip install -r requirement.txt
 
-3. Run App:
+3. Add Gemini API key :
+   ```Terminal
+   Create .env file and write GOOGLE_API_KEY="YOUR API KEY"
+
+4. Run App:
 
    ```Terminal
    streamlit run main.py
