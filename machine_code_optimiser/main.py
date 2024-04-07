@@ -44,8 +44,5 @@ def main():
     else:
         st.error(f"Some Feilds Are Missing")
 
-
-
 if __name__ == '__main__':
     main()
-    
