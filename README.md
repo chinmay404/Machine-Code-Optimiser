@@ -21,3 +21,16 @@ To run the Machine Code Optimizer locally, follow these steps:
 
    ```sh
    git clone https://github.com/your_username/machine-code-optimizer.git
+
+2. Install requirement:
+
+   ```Terminal
+   pip install -r requirement.txt
+
+
+3. Run App:
+
+   ```Terminal
+   streamlit run main.py
+   
+
