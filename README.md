@@ -27,10 +27,7 @@ To run the Machine Code Optimizer locally, follow these steps:
    ```Terminal
    pip install -r requirement.txt
 
-
 3. Run App:
 
    ```Terminal
    streamlit run main.py
-   
-
