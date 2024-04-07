@@ -1,7 +1,5 @@
 # Machine Code Optimizer
 
-
-
 ## Overview
 Machine Code Optimizer is a Streamlit web application that utilizes language models to optimize machine code. This tool allows users to upload machine code files, specify a machine name, and receive optimized code as well as cycle time analysis.
 
@@ -10,6 +8,8 @@ Machine Code Optimizer is a Streamlit web application that utilizes language mod
 - Specify the machine name for optimization.
 - View optimized code and cycle time analysis results.
 - Download the optimized code report.
+
+## ScreenShots
 ![image](https://github.com/chinmay404/Machine-Code-Optimiser/assets/92822013/b8623e8c-9b81-4c22-a1ca-817651a5b3c1)
 
 ![image](https://github.com/chinmay404/Machine-Code-Optimiser/assets/92822013/ec95ec44-e29a-4399-a2bb-41e57007cf97)
